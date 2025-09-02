@@ -98,5 +98,5 @@ This project is licensed under the MIT License.
 
 ## 🙌 Credits
 
-Made with ❤️ by [Kishore8787](https://github.com/kishore8787).  
+Made with ❤️ by [hrithik025](https://github.com/hrithik025).  
 Built using the official Vite + React + Tailwind template and enhanced for a modern portfolio experience.

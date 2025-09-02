@@ -33,7 +33,7 @@ export default function MainSheet() {
                 enableOnHover={true}
                 className="custom-class"
               >
-                Kishore
+                Hrithik
               </GlitchText>
             </div>
 

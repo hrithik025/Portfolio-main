@@ -30,7 +30,7 @@ npm install
 #### Create a `.env` (optional for private/pinned repos):
 
 ```env
-VITE_GITHUB_USERNAME=kishore8787
+VITE_GITHUB_USERNAME=hrithik025
 VITE_GITHUB_TOKEN=your_github_token_if_needed
 ```
 

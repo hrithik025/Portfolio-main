@@ -143,10 +143,10 @@ const ContactForm = () => {
 
 const ContactMe = () => {
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/kishore8787', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/kishore-g-24ba37200/', label: 'LinkedIn' },
-    {icon:InstagramIcon,href:"https://www.instagram.com/kishore3__/",label:"Instagram"},
-    { icon: SiDiscord, href: 'https://discord.com/users/kishore4859', label: 'Discord' },
+    { icon: Github, href: 'https://github.com/hrithik025', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/saravana-hrithik-a-06a784286/', label: 'LinkedIn' },
+    {icon:InstagramIcon,href:"https://www.instagram.com/__saravana.hrithik__/",label:"Instagram"},
+    { icon: SiDiscord, href: 'https://discord.com/users/benny25', label: 'Discord' },
   ];
 
   return (
@@ -165,7 +165,7 @@ const ContactMe = () => {
               </h2>
             </div>
             <p className="text-xl md:text-2xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
-              Have a project in mind or just want to chat about data analytics? 
+              Have a project in mind or just want to chat about data structures 
               I'd like to hear from you. Let's build something cool together!
             </p>
           </div>
@@ -211,7 +211,7 @@ const ContactMe = () => {
               {/* Fun fact */}
               <div className="bg-gradient-to-r from-yellow-400/10 to-cyan-300/10 rounded-2xl p-6 md:p-8 border border-yellow-400/20">
                 <p className="text-lg text-white/90 italic">
-                  "I typically respond within 20 hours. Tea chats and project reviews are always welcome! ☕"
+                  "I typically respond within 20 hours. Coffee chats and project reviews are always welcome! ☕"
                 </p>
               </div>
             </div>

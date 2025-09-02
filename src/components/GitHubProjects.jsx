@@ -12,7 +12,7 @@ const GitHubProjects = () => {
   const [visibleProjects, setVisibleProjects] = useState([]);
   const [hoveredProject, setHoveredProject] = useState(null);
 
-  const username = "kishore8787";
+  const username = "hrithik025";
   const token = import.meta.env.VITE_GITHUB_TOKEN;
 
   useEffect(() => {
